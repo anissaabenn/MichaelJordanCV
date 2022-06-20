@@ -1,0 +1,21 @@
+body {
+    background-image: url(https://png.pngtree.com/background/20210711/original/pngtree-basketball-poster-background-picture-image_1066124.jpg);
+    background-size:contain;
+}
+header {
+    height: 50px;
+    width: 1500px;
+    background-size: cover;
+
+}
+header h1 {color:rgb(122, 29, 141)}
+
+.photo {
+margin-top: 30px;
+margin-left: 570px;
+}
+
+.presentation {
+
+}
+.premierbloc {border: 1px solid black; padding: 5px;}
